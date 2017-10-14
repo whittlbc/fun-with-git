@@ -7,3 +7,5 @@ print 'b'
 print 'e'
 
 print 'f'
+
+print 'g'
