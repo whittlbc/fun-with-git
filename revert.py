@@ -11,3 +11,5 @@ print 'f'
 print 'g'
 
 print 'h'
+
+print 'diff'
