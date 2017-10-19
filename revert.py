@@ -13,5 +13,3 @@ print 'g'
 print 'h'
 
 print 'diff'
-
-print 'diff for something'
